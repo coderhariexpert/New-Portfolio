@@ -72,7 +72,7 @@
   }
   
   
-  /* intro styles */
+  
   
   #intro {
     padding: 4rem 1rem 10rem 1rem;
@@ -104,7 +104,7 @@
   }
   
   
-  /* contact section */
+  
   
   #contact {
     width: 400px;
@@ -118,7 +118,7 @@
   }
   
   
-  /* navigation */
+  
   
   nav {
     font-family: var(--mono);
@@ -182,7 +182,7 @@
   }
   
   
-  /* projects section */
+  
   
   #projects {
     padding: 4rem 1rem;
@@ -232,7 +232,7 @@
   }
   
   
-  /* footer section */
+  
   
   footer {
     text-align: center;
